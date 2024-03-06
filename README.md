@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Pacific Creations<br>🤝 I’m looking for help with Web Development<br>🌱 I’m currently learning Frontend<br>💬 Ask me about html/css ,C ,python<br>⚡ Fun fact Mad Coder
+🔭 I’m currently working on Pacific Creations<br>🤝 I’m looking for help with Web Development<br>🌱 I’m currently learning Frontend<br>💬 Ask me about html/css ,C ,Java<br>⚡ Fun fact : Mad Coder
 
 
 ## 🌐 Socials:
